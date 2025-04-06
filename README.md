@@ -8,3 +8,23 @@ Markdown Image Extractor is a simple and efficient Bash script designed to extra
 - Extract image URLs with precision using regular expressions.
 - Generate a clean list of all image URLs.
 
+## Steps to Use the Script
+
+1. **Clone the Repository**:
+   First, download the repository to your system:
+
+2. **Navigate to the Project Folder: Move into the directory where the script is located**:
+   
+### cd MarkdownImageExtractor
+
+4. **Prepare the Script: Grant execution permissions to the script**:
+   
+### chmod +x getimage.sh
+
+6. **Run the Script: Execute the script with a Markdown file as its input argument**:
+   
+### ./getimage.sh filename.md
+
+Replace filename.md with the name of your Markdown file.
+
+
